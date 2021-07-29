@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://cdn.jsdelivr.net/gh/deepmodeling/dpgui@gh-pages/css/input.c374839b.css"
   },
   {
-    "revision": "4ff38e8c3c8f5464b7c9dc8fc43a7ed4",
+    "revision": "f291bfc6382f4a5e60a1046bc14b1296",
     "url": "https://cdn.jsdelivr.net/gh/deepmodeling/dpgui@gh-pages/index.html"
   },
   {
-    "revision": "3326e3195327a314cad2",
-    "url": "https://cdn.jsdelivr.net/gh/deepmodeling/dpgui@gh-pages/js/app.db0d5b18.js"
+    "revision": "e8b0b1c88b27432c1777",
+    "url": "https://cdn.jsdelivr.net/gh/deepmodeling/dpgui@gh-pages/js/app.a02c28ad.js"
   },
   {
     "revision": "573140dba749071bcc94",
